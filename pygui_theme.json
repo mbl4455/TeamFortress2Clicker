@@ -1,0 +1,28 @@
+{
+  "button": {
+    "colours": {
+      "normal_bg": "#7FC341",
+      "hovered_bg": "#91D950",
+      "active_bg": "#6AA32E",
+      "normal_border": "#5C7A2A",
+      "hovered_border": "#5C7A2A",
+      "active_border": "#5C7A2A",
+
+      "normal_text": "#000000",
+      "hovered_text": "#000000",
+      "active_text": "#000000",
+      "text_shadow": "#00000000"
+    },
+"font": {
+  "name": "verdana",
+  "size": 16,
+  "style": "bold"
+},
+    "misc": {
+      "border_width": 2,
+      "shape": "rounded_rectangle",
+      "corner_radius": 10,
+      "shadow_width": 3
+    }
+  }
+}
